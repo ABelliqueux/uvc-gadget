@@ -1,3 +1,5 @@
+## This is mirrored from https://gitlab.freedesktop.org/camera/uvc-gadget/ as it is currently down until 2025-03-22
+
 # uvcgadget - UVC gadget C library
 
 uvcgadget is a pure C library that implements handling of UVC gadget functions.
